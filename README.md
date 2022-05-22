@@ -1,12 +1,15 @@
 [![MasterHead](https://github.com/Shaymaa48/Shaymaa48/blob/main/MyHeader.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shaymaa Hasson!</h1>
-<h3 align="center">Front-End developer</h3>
+<h3 align="center">💎 Front-End developer 💎</h3>
 <img align="right" alt="Coding" width="300" src="https://intecit.com/wp-content/uploads/2017/06/CustomDevelopment.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaymaa48&label=Profile%20views&color=0e75b6&style=flat" alt="shaymaa48" /> </p>
 
+- 📚 I'm a **Fast Learner** with a good **Critical Thinking**
 - 🌱 I’m currently learning **React.js**
-
+- 💻 I like to keep abreast with Technology 
+- 🎨 I like to spend my free time in drawing
+- 🎂 I have a talent for making the most beautiful cake you will ever see
 - 👨‍💻 All of my projects are available at [Shaymaa48](https://github.com/Shaymaa48)
 
 <h3 align="left">Connect with me:</h3>
