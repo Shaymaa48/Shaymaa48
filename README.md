@@ -8,10 +8,10 @@
 - 📚 I'm a **Fast Learner** with a good **Critical Thinking**
 - 🌱 I’m currently learning **React.js**
 - 💻 I like to keep abreast with Technology 
-- 📝 I develop myself in solving problems by solving many of them in Leetcode
+- 📝 I develop myself in **Problem Solving** by solving many of them in Leetcode
 - 🎨 I like to spend my free time in drawing
 - 🎂 I have a talent for making the most beautiful cake you will ever see
-- 👨‍💻 All of my projects are available at [Shaymaa48](https://github.com/Shaymaa48)
+- 👨‍💻 All of my projects are available at [Shaymaa48](https://github.com/Shaymaa48?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
