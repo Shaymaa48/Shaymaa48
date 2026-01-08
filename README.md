@@ -42,11 +42,11 @@
   </a>
 </p>
 
-
-<h3 align="left">Other Skills</h3>
 - 💻 I build *clean, scalable, and reliable backend solutions*, including REST APIs, user authentication, and database management (SQL / MongoDB).  
 - 💎 Experienced in *Agile/Scrum environments* for real-world projects.
-- 👨‍💻 All of my projects are available at [Shaymaa48](https://github.com/Shaymaa48?tab=repositories)
+- 👨‍💻 All of my projects are available at [Shaymaa48](https://github.com/Shaymaa48?tab=repositories) 
+<h3 align="left">Other Skills</h3>
+
 
 - REST API. 
 - Express.js.
