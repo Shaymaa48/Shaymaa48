@@ -20,9 +20,6 @@
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="express js" width="40" height="40"/> Express.js
-</a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>
   </a>
@@ -35,8 +32,6 @@
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
- 
-
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/>
   </a>
@@ -46,11 +41,6 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   </a>
-
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaymaa48&show_icons=true&locale=en&layout=compact" alt="shaymaa48" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaymaa48&show_icons=true&locale=en" alt="shaymaa48" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaymaa48&" alt="shaymaa48" /></p>
+<p>Other Skills: REST API, Express.js, JWT Authentication, Scrum, Agile</p>
