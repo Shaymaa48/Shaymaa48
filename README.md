@@ -42,8 +42,12 @@
   </a>
 </p>
 
+
 <h3 align="left">Other Skills</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaymaa48&label=Profile%20views&color=0e75b6&style=flat" alt="shaymaa48" /> </p>
+- 💻 I build *clean, scalable, and reliable backend solutions*, including REST APIs, user authentication, and database management (SQL / MongoDB).  
+- 💎 Experienced in *Agile/Scrum environments* for real-world projects.
+- 👨‍💻 All of my projects are available at [Shaymaa48](https://github.com/Shaymaa48?tab=repositories)
+
 - REST API. 
 - Express.js.
 - JWT Authentication.
