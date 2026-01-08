@@ -5,18 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaymaa48&label=Profile%20views&color=0e75b6&style=flat" alt="shaymaa48" /> </p>
 
-- I build *clean, scalable, and reliable backend solutions*, including REST APIs, user authentication, and database management (SQL / MongoDB).  
+- 💻 I build *clean, scalable, and reliable backend solutions*, including REST APIs, user authentication, and database management (SQL / MongoDB).  
 Experienced in *Agile/Scrum environments* for real-world projects.
-- 🌱 I’m currently learning **React.js**
-- 💻 I like to keep abreast with Technology 
-- 📝 I develop myself in **Problem Solving** by solving many of them in Leetcode
-- 🎨 I like to spend my free time in drawing
-- 🎂 I have a talent for making the most beautiful cake you will ever see
 - 👨‍💻 All of my projects are available at [Shaymaa48](https://github.com/Shaymaa48?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
-## Connect with me:
-- [Linkedin] (https://linkedin.com/in/shaymaahasson)
 <p align="left">
 <a href="https://linkedin.com/in/shaymaahasson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaymaahasson" height="30" width="40" /></a>
 </p>
