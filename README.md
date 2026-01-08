@@ -15,7 +15,6 @@
 </p>
 
 <h3 align="left">Skills</h3>
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
@@ -43,4 +42,5 @@
   </a>
 </p>
 
-<p>Other Skills: REST API, Express.js, JWT Authentication, Scrum, Agile</p>
+<h3 align="left">Other Skills</h3>
+<p>REST API, Express.js, JWT Authentication, Scrum, Agile</p>
