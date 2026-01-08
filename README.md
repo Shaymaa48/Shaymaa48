@@ -43,6 +43,7 @@
 </p>
 
 <h3 align="left">Other Skills</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaymaa48&label=Profile%20views&color=0e75b6&style=flat" alt="shaymaa48" /> </p>
 - REST API. 
 - Express.js.
 - JWT Authentication.
