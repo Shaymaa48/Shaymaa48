@@ -43,4 +43,8 @@
 </p>
 
 <h3 align="left">Other Skills</h3>
-<p>REST API, Express.js, JWT Authentication, Scrum, Agile</p>
+- REST API. 
+- Express.js.
+- JWT Authentication.
+- Scrum.
+- Agile.
